@@ -1,0 +1,6 @@
+Andrew|Adams|2002-08-14 00:00:00
+Nancy|Edwards|2002-05-01 00:00:00
+Jane|Peacock|2002-04-01 00:00:00
+Album          Employee       InvoiceLine    PlaylistTrack
+Artist         Genre          MediaType      Track        
+Customer       Invoice        Playlist     
